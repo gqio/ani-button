@@ -9,7 +9,7 @@ export default class MyElement extends LitElement {
   static get styles() {
     return css`
       .btn {
-        font-size: 300%;
+        font-size: 100%;
         border: 3px solid #0099ff;
         border-radius: 15px;
         background: #0099ff55;
