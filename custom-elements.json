@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "tags": [
+    {
+      "name": "custom-element",
+      "description": "Hello world web component",
+      "jsDoc": "",
+      "attributes": [
+        {
+          "name": "name",
+          "description": "Name",
+          "jsDoc": "",
+          "type": "string"
+        }
+      ],
+      "properties": [],
+      "events": [],
+      "slots": [],
+      "cssProperties": [],
+      "cssParts": []
+    }
+  ]
+}
